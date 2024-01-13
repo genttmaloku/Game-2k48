@@ -12,10 +12,6 @@ HTML: Struktura bazë e lojës dhe tabela për vizatimin e blloqeve.
 CSS: Stilizimi i faqes dhe pamjet e blloqeve.
 JavaScript: Logjika e lojës dhe ndërveprimi me përdoruesin.
 
-Autori
+Autori:Gent Maloku
 
-Gent Maloku
-
-Kontakti
-
-malokugentt@gmail.com
+Email:malokugentt@gmail.com
