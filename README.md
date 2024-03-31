@@ -17,3 +17,6 @@ Autori:Gent Maloku
 Email:malokugentt@gmail.com
 
 Testo lojën:https://2k48.netlify.app/
+
+![2k48](https://github.com/genttmaloku/Game-2k48/assets/121188583/9ca67247-0ca1-4d05-82b8-1994face8775)
+
