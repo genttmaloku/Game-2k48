@@ -15,3 +15,5 @@ JavaScript: Logjika e lojës dhe ndërveprimi me përdoruesin.
 Autori:Gent Maloku
 
 Email:malokugentt@gmail.com
+
+Testo lojën:https://2k48.netlify.app/
